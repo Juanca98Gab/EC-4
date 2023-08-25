@@ -1,0 +1,5 @@
+com\example\demo\DemoApplication.class
+com\example\demo\Videojuego.class
+com\example\demo\DatabaseLoader.class
+com\example\demo\HomeController.class
+com\example\demo\VideojuegoRepository.class
